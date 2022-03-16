@@ -1,4 +1,4 @@
-name: 'ServiceNow CI/CD Run ATF Test Suite'
+name: 'ServiceNow CI/CD Run ATF Test Suite - Custom Domain For Instance'
 description: 'Start a specified automated test suite.'
 author: "ServiceNow"
 inputs:
